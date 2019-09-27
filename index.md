@@ -17,5 +17,5 @@
 [![ecommerce software](http://www.ryandevelopers.com/wp-content/uploads/2018/12/1-1554x500@2x.jpg)](http://www.ryandevelopers.com/)
 
 ## Multithreads
-[![multithreads](https://i.ytimg.com/vi/hLucZsS0JDo/maxresdefault.jpg)](https://github.com/AzitaDadresan/Multithreads)
+[![multithreads](https://i.ytimg.com/vi/hLucZsS0JDo/maxresdefault.jpg)](https://github.com/AzitaDadresan/Multithread)
 
