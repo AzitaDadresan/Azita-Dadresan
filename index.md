@@ -19,3 +19,13 @@
 ## Multithreads
 [![multithreads](https://i.ytimg.com/vi/hLucZsS0JDo/maxresdefault.jpg)](https://github.com/AzitaDadresan/Multithread)
 
+## Medical Application
+[![Medical Application](https://emerj.com/wp-content/uploads/2018/10/data-mining-medical-records-with-machine-learning-5-current-applications.png)](https://github.com/AzitaDadresan/Medical-Application)
+
+## Opengl
+[![Opengl](https://answers.unrealengine.com/storage/temp/222581-screen-win.png)](https://github.com/AzitaDadresan/Opengl)
+
+## Restful
+[![restful](https://miro.medium.com/max/782/1*EbBD6IXvf3o-YegUvRB_IA.jpeg)](https://github.com/AzitaDadresan/Restful)
+
+
