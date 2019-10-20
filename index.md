@@ -3,28 +3,28 @@
 I am currently completing a bachelor’s degree in Computer Science from Southern New Hampshire University.
 ## Artifact Introduction
 This artifact is the showcase of my project Authentication System in IT145 Foundation in Application Development: The user will be prompted to enter their username and password on the zoo’s internal login page, and the credentials will be checked against an employee user record file or database. Once the user has entered their login information, they will click the submit button that will process the information to run the background check. If the user’s information entered matches the zoo records, then the employee will be granted access to the portal with the account access rights granted by their pre-defined role by the zoo keeper/admin.  
-CREATE array based on credentials.txt
-	Additional values may be added directly to code
-DISPLAY usage information for user
-PROMPT for username
-	IF user enters quit, exit program
-PROMPT for password
-	IF user enters quit, exit program
-LOOP for no more than 3 user authentication attempts
-	LOOP to determine corresponding array values for username and hashed password
-	IF username matches declared username
-		CONVERT user entered password to hashed password
-		IF hashed user entered password not found
-			PROMPT for credential re-entry
-		IF max attempts reached
-			Alert user to invalid credentials
-			EXIT program
-		ELSE hashed user entered password is found
-			SET user in method of new class
-			DETERMINE user role in method of new class
-				Based on information from credentials.txt
-	CALL welcome method to display corresponding welcome file for role
-	EXIT program
+-CREATE array based on credentials.txt
+	*Additional values may be added directly to code
+-DISPLAY usage information for user
+-PROMPT for username
+	*IF user enters quit, exit program
+-PROMPT for password
+	*IF user enters quit, exit program
+-LOOP for no more than 3 user authentication attempts
+	*LOOP to determine corresponding array values for username and hashed password
+	*IF username matches declared username
+		-CONVERT user entered password to hashed password
+		-IF hashed user entered password not found
+			*PROMPT for credential re-entry
+		-IF max attempts reached
+			*Alert user to invalid credentials
+			*EXIT program
+		-ELSE hashed user entered password is found
+			*SET user in method of new class
+			*DETERMINE user role in method of new class
+				-Based on information from credentials.txt
+	*CALL welcome method to display corresponding welcome file for role
+	*EXIT program
   
 I tried to learn how to enhance my program in NetBeans IDE. In terms of Software Design and Engineering, Authorization system is one of the most important security systems while logging in any applications. We do not want anyone have access to our username or password information. It uses the hashed system MD5. Adding more methods as object oriented is very important. Other skills are learning how to good review a program, find possible faults, coding standards, white spaces, indentations, curly braces, best practices, readable, checking each scope, commenting, check methods, testing access to the library, and duplication. Also, it is important to not to copy and paste because it removes most of indentation. I created two more methods according to instructor feedback. I could make popup interface too. In second Enhancement, I make more clean code with more OOP according by adding on userRole method. I used JOptionPane for the interface. Also, I added try and catch for security and throws exception for that. 
 In terms of algorithms and data structures, I used string object that can store the data as object for username and hash password. I had issue in the choosing what kind of data structures is good for that.  
