@@ -40,7 +40,7 @@ We need to check the data, there are no missing data, not misspelled, no outlier
 I described more information about the process of gaining the result, not just the result. Working on datamining software like JMP helps programmers to make a better decision and make scripts according to that data. It is vastly used in Artificial intelligence and Machine learning. This is the way that machine can learn how to decide to find a potential customer such as Bubba Gump analyzing data. The result is like the human brain which knows who the target customer is for advertising. It can save lots of time and budget for marketing companies to find good customers faster with lower cost.
 	I add more results for data analyzing for future enhancements. In Bubba Gump data I added more functions that analyze the data better. I need to get the model of data predicting what will happen based on analyzing the data.
 	I used Regression tool, Multivariate Dependence Techniques, Categorical Data. 
-Please click on the image below to see the information. 
+Please click on the image to see the information. 
 [![Bubba Gump Data Analytics](https://www.maritzcx.com/blog/wp-content/uploads/2013/01/bubba-gump-300x297.jpg)](https://github.com/AzitaDadresan/Bubba-Gump-Data)
 
 ## Ecommerce Software Showcase
