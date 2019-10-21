@@ -1,5 +1,5 @@
 # Full-Stack Software Development Portfolio
-## Artifact Introduction
+## Authentication System and Bubba Gump Data Mining Artifact Introduction
 This artifact is the showcase of my project Authentication System in IT145 Foundation in Application Development: The user will be prompted to enter their username and password on the zoo’s internal login page, and the credentials will be checked against an employee user record file or database. Once the user has entered their login information, they will click the submit button that will process the information to run the background check. If the user’s information entered matches the zoo records, then the employee will be granted access to the portal with the account access rights granted by their pre-defined role by the zoo keeper/admin.  
 - CREATE array based on credentials.txt
  	- Additional values may be added directly to code
