@@ -1,13 +1,13 @@
 # Full-Stack Software Development Portfolio
 I am a highly qualified full-stack software developer with 12 years of experience in a wide variety of technical roles within the software industry. I am currently completing a bachelor’s degree in Computer Science from Southern New Hampshire University. My strengths and interests include time and budget management, I am adaptable and good problem solver. 
 In this portfolio I will show my learning objectives in different front end and backend development including object oriented programming languages such as Java and C++. I have experience in HTML5, CSS3, and Javascript.
-Backend:Python, Java, C++, SQL, MongoDB, Oracle, AWS, Linux, Perl, PHP 
-Frontend:JavaScript, Html5, CSS3 
-Tools:Junit, Restful, Eclipse IDE, Dreamweaver, NetSuite, C++ checker, Maven 
-Framework:Magento, Shopify, WordPress, Joomla 
-Designs:Adobe Photoshop, Adobe Illustrator, InDesign, Adobe Premier Pro 
-Specialties: Bug fixer, development strategies and methodologies, build processes, build tools, package managers, deployment, continuous integration, release management, unit testing, version control, design software.  
-Certifications:Search Engine Optimization, Web Development 
+* Backend:Python, Java, C++, SQL, MongoDB, Oracle, AWS, Linux, Perl, PHP 
+* Frontend:JavaScript, Html5, CSS3 
+* Tools:Junit, Restful, Eclipse IDE, Dreamweaver, NetSuite, C++ checker, Maven 
+* Framework:Magento, Shopify, WordPress, Joomla 
+* Designs:Adobe Photoshop, Adobe Illustrator, InDesign, Adobe Premier Pro 
+* Specialties: Bug fixer, development strategies and methodologies, build processes, build tools, package managers, deployment, continuous integration, release management, unit testing, version control, design software.  
+* Certifications:Search Engine Optimization, Web Development 
 
 ## Authentication System and Bubba Gump Data Analytics Artifact Introduction
 First, the showcase of my project Authentication System in IT145 Foundation in Application Development: The user will be prompted to enter their username and password on the zoo’s internal login page, and the credentials will be checked against an employee user record file or database. Once the user has entered their login information, they will click the submit button that will process the information to run the background check. If the user’s information entered matches the zoo records, then the employee will be granted access to the portal with the account access rights granted by their pre-defined role by the zoo keeper/admin.  
