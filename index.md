@@ -1,6 +1,6 @@
 # Full-Stack Software Development Portfolio
 I am a highly qualified full-stack software developer with 12 years of experience in a wide variety of technical roles within the software industry. My strengths and interests include time and budget management, I am adaptable and good problem solver. 
-In this portfolio I will show my learning objectives in different front end and backend development including object oriented programming languages such as Java and C++. I have experience in HTML5, CSS3, and Javascript.
+In this portfolio I will show my learning objectives in different front end and backend development including object oriented programming languages such as Java, Python, and C++. I have experience in HTML5, CSS3, and Javascript.
 * Backend:Python, Java, C++, SQL, MongoDB, Oracle, AWS, Linux, Perl, PHP 
 * Frontend:JavaScript, Html5, CSS3 
 * Tools:Junit, Restful, Eclipse IDE, Dreamweaver, NetSuite, C++ checker, Maven 
